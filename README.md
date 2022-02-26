@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LATHA-MURUGESAN
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning ...
+I am currently learning concept of machine learning 
 
 
 <!---
